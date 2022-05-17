@@ -86,7 +86,7 @@ class Main:
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : BYPASS 
 \033[1;90m══════════════════════════════════════════════════
     """)
-		print("%s [%s•%s] %sTOOL NAME : %sOld Fb Cracker"%(G,R,G,B,G))
+		print("%s [%s•%s] %sTOOL NAME : %sPAKISTAN"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
 		print("")
 		print("\n    \033[0;92m            UID🔥 CLONING🔥 \033[0;97m ")
